@@ -1,0 +1,34 @@
+#formulario
+{
+	padding: 200px 0px 0px 600px;
+}
+
+#label_nome
+{
+	padding: 0px 0px 0px 50px;
+}
+
+#label_email
+{
+	padding: 0px 0px 0px 50px;
+}
+
+#label_senha
+{
+	padding: 0px 0px 0px 50px;
+}
+
+#label_repetir_senha
+{
+	padding: 0px 0px 0px 25px;
+}
+
+#label_curso
+{
+	padding: 0px 0px 0px 50px;
+}
+
+#botao_cadastrar
+{
+	padding: 0px 0px 0px 500px;
+}

@@ -1,0 +1,34 @@
+#formulario
+{
+	margin-left: 900px;
+}
+
+#tabela
+{
+	margin-left: 50px;
+	border-spacing: 0px;
+}
+
+#tabela caption
+{
+	font-size: 15pt;
+	padding-top: 140px;
+}
+
+#frase-principal
+{
+	margin-left: 600px;
+	padding-bottom: 100px;
+}
+
+#frase-principal h1
+{
+	font-size: 15pt;
+	margin-left: 21px;
+}
+
+#frase-principal p
+{
+	font-size: 11pt;
+}
+
